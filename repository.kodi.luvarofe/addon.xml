@@ -1,14 +1,14 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kodi-mexico" name="Kodi-Mexico official Repo" version="1.1.0" provider-name="KodiMexico">
-	<extension point="xbmc.addon.repository" name="Kodi-Mexico official Repo">
+<addon id="repository.kodi.luvarofe" name="kodi.luvarofe.repo" version="1.1.0" provider-name="kodiluvarofe">
+	<extension point="xbmc.addon.repository" name="luvarofe official Repo">
 		<info compressed="false"></info>
 		<checksum></checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/kodimexico/miNuevoRepo/master</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/kodiluvarofe/miNuevoRepo/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Kodi-Mexico official Repo</summary>
-   		<description lang="en">Instala los Addons de Kodi Mexico.</description>
+		<summary>Kodi-luvarofe official Repo</summary>
+   		<description lang="en">Instala los Addons de Kodi luvarofe.</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
