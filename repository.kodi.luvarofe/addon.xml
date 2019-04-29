@@ -2,9 +2,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi.luvarofe" name="kodi.luvarofe.repo" version="1.1.0" provider-name="kodiluvarofe">
 	<extension point="xbmc.addon.repository" name="luvarofe official Repo">
-		<info compressed="false"></info>
-		<checksum></checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/kodiluvarofe/miNuevoRepo/master</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/luvarofe/MyRepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/luvarofe/MyRepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/luvarofe/MyRepo/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Kodi-luvarofe official Repo</summary>
