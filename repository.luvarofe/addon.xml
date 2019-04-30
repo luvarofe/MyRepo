@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.luvarofe" name="luvarofe official Repo" version"1.0.1" provider-name="KodiMexico">
+<addon id="repository.luvarofe" name="luvarofe official Repo" version"1.0.1" provider-name="Kodiluvarofe">
 	<extension point="xbmc.addon.repository" name="luvarofe official Repo">
         <info>https://raw.githubusercontent.com/luvarofe/MyRepo/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/luvarofe/MyRepo/master/addons.xml.md5</checksum>
